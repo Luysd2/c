@@ -28,6 +28,6 @@ int main(){
         printf("\nO valor do C com o do while é: %d", c);
         c--; //decremento
     }while (c >= 1);
-    
+    //linha de comentario para fazer o teste no git
     return 0;
 }
