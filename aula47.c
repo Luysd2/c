@@ -28,7 +28,7 @@ int main(){
         vet[cont]++;
     }
 
-    
+    // aqui o usuario pode adicionar os valores para o vetor
     for(cont = 0; cont < 3; cont++){
         printf("Digite 3 valores para o vetor: ");
         scanf("%d", &vet[cont]);
