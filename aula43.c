@@ -16,8 +16,7 @@ int main(){
             printf("\nNumeros pares com o for é %d", i);
         }else{
             printf("\nNumeros impar com o for é %d", i);
-        }
-        
+        } 
     }
     printf("\n");
 

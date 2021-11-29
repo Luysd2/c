@@ -18,4 +18,4 @@ int main(){
 }
 
 /* função busca: busca um elemento na lista */
-//  Lista* busca (Lista* l, int v) { 	Lista* p;  for (p=l; p!=NULL; p=p->prox)  	if (p->info == v) 	printf("\n %d",p->info); 	return p; 	return NULL; 	/* não achou o elemento */ 	}
+// Lista* busca (Lista* l, int v) {	Lista* p;for (p=l; p!=NULL; p=p->prox)	if (p->info == v)	printf("\n %d",p->info);	return p;	return NULL;	/* não achou o elemento */	}

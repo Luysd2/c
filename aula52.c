@@ -39,4 +39,6 @@ int main(){
     printf("\n");
     
     return 0;
+    // tem outra forma q eu fiz de acordo com a aula no arquivo aula52-.c
 }
+
